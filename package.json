@@ -15,6 +15,7 @@
     "http-proxy": "^1.16.2",
     "jade": "~1.11.0",
     "jquery": "^3.2.1",
+    "jstransformer": "^1.0.0",
     "koa": "^2.0.0-alpha.8",
     "koa-bodyparser": "^3.2.0",
     "koa-json": "^2.0.2",
@@ -24,10 +25,12 @@
     "mysql": "^2.13.0",
     "nodemon": "^1.11.0",
     "oauth": "^0.9.15",
+    "pug": "^2.0.0-rc.2",
     "redis": "^2.7.1",
     "restify": "^5.0.0",
     "serve-favicon": "~2.4.2",
-    "socket.io": "^2.0.3"
+    "socket.io": "^2.0.3",
+    "uuid": "^3.1.0"
   },
   "devDependencies": {
     "babel-core": "^6.25.0",
